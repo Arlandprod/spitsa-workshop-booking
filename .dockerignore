@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.openai
+.sites-runtime
+.env*
+test-results
+playwright-report
+*.log
